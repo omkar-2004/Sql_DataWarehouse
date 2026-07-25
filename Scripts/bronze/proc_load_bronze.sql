@@ -15,7 +15,6 @@ Usage example:
 Note:
 	Change the file locations to csv locations.
 */
-
 CREATE or Alter PROCEDURE bronze.load_bronze AS
 BEGIN
 	declare @Start_Time DATETIME, @End_Time DATETIME, @Batch_Start_Time DATETIME, @Batch_End_Time DATETIME;
