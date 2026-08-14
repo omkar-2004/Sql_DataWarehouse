@@ -75,9 +75,11 @@ These questions provide context on when to run campaigns and identify operationa
 
 ### 📊 Dashboards Created
 *   **Product and Category Profit Dashboard Page**.
-*   [Dashboard Page Preview](https://github.com/omkar-2004/Profitability-and-Sales-optimization/blob/master/Dashboard/Dashboard%20Screenshots/Screenshot%202026-08-14%20153221.png)
+  ![Dashboard Preview](https://github.com/omkar-2004/Profitability-and-Sales-optimization/blob/master/Dashboard/Dashboard%20Screenshots/Screenshot%202026-08-14%20153221.png?raw=true)
 *   **Geographic Dashboard Page**.
+  ![Dashboard Preview](https://github.com/omkar-2004/Profitability-and-Sales-optimization/blob/master/Dashboard/Dashboard%20Screenshots/Screenshot%202026-08-14%20153250.png?raw=true)
 *   **Customer Dashboard Page**.
+  ![Dashboard Preview](https://github.com/omkar-2004/Profitability-and-Sales-optimization/blob/master/Dashboard/Dashboard%20Screenshots/Screenshot%202026-08-14%20153359.png?raw=true)
 
 ### 🧮 Key DAX Measures
 *   `AOV = [Total Profit] / [Total Revenue]`.
