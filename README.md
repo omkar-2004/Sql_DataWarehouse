@@ -75,6 +75,7 @@ These questions provide context on when to run campaigns and identify operationa
 
 ### 📊 Dashboards Created
 *   **Product and Category Profit Dashboard Page**.
+*   [Dashboard Page Preview](https://github.com/omkar-2004/Profitability-and-Sales-optimization/blob/master/Dashboard/Dashboard%20Screenshots/Screenshot%202026-08-14%20153221.png)
 *   **Geographic Dashboard Page**.
 *   **Customer Dashboard Page**.
 
